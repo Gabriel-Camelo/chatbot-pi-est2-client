@@ -19,4 +19,4 @@ pages: As pages são as páginas que usam vários componentes. É essa a página
 
 services: Aqui ficam as configurações de HTTP clientes, normalmente utilizando axios.
 
-fonts: Fonts utilizadas na componentização das páginas.
+fonts: Fonts utilizadas na componentização das páginas
